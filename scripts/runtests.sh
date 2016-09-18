@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-TESTS_FOLDER="app/test/"
+TESTS_FOLDER="src/test/"
 TEST_FILE_PATTERN="*-tests.py"
 
 coverage erase

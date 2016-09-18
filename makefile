@@ -1,5 +1,5 @@
 run:
-	@python -m app.src.main -d
+	@python -m src.app.main -d
 
 test:
 	@./scripts/runtests.sh

@@ -6,7 +6,7 @@
 #------------------------------------------------------------------------------
 
 import unittest
-from app.src.chromosomes.intervalschromosome import IntervalChromosome
+from src.app.chromosomes.intervalschromosome import IntervalChromosome
 
 class IntervalsChromosomeTests(unittest.TestCase):
 
