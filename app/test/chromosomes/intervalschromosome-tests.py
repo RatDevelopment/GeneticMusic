@@ -1,3 +1,10 @@
+#------------------------------------------------------------------------------
+# File: intervalschromosome-tests.py
+# Desc: Interval Chromosome tests
+# Auth: Cezary Wojcik
+# Date: September 17, 2016
+#------------------------------------------------------------------------------
+
 import unittest
 from app.src.chromosomes.intervalschromosome import IntervalChromosome
 
