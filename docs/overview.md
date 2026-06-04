@@ -3,6 +3,11 @@
 We will define a set of chromosomes that will provide definitions that will
 allow us to generate music.
 
+The full **protein–codon genetic language** (genome layout, amino acids, MIDI
+phenotype, crossover/mutation rules) is documented in
+[language/protein-codon-model.md](language/protein-codon-model.md). The
+[codon table](language/codon-table.md) is a quick reference.
+
 ## Chromosome
 
 A chromosome will be defined as the combination of a set of genes and a
